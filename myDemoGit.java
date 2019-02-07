@@ -5,6 +5,11 @@ class myDemoGit
   {
     System.out.println("Aaquib");
   }
+  void Test(int n)
+  {
+    System.out.println(n);
+  }
+  
 public static void main(String[] args)
 
 {
